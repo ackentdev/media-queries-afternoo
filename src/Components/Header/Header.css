@@ -25,6 +25,7 @@ header button {
     display: none;
     background-color: goldenrod;
     z-index: 3;
+    font-family: 'Roboto', sans-serif;
 }
 
 .logo > a {
@@ -41,6 +42,7 @@ header nav ul {
     background-color: #212529;
     justify-content: space-between;
     align-items: center;
+    font-family: 'Roboto', sans-serif;
 }
 
 header a {
